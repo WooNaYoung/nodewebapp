@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/24878da4-338d-4d02-a988-1ed871c57f38/resourceGroups/ny-nodeapp-rg/providers/Microsoft.Web/sites/nynodeapp1",
+    "appService.deploySubpath": "."
+}
